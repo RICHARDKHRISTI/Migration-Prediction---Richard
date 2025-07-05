@@ -26,7 +26,7 @@ New Zealand Govt Open Data Portal
 3. Check prediction score & graphs
 
 ## 📷 Demo
-![Migration Growth Graph](images/graph.png)
+![Migration Growth Graph](Screenshot 2025-07-05 054147.png)
 
 ## 🧑‍💻 Author
 Richard Khristi
